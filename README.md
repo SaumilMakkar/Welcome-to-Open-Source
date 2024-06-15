@@ -69,10 +69,10 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
-                <a href="https://www.vivekthakur.dev/">
-                    <img src="https://avatars.githubusercontent.com/u/50275510?v=4" width="100px;" alt="Vivek Thakur"/>
+                <a href="https://www.saumimakkar.dev/">
+                    <img src="https://camo.githubusercontent.com/584dbda4b749fd30a43c915932b4ba73175283229301f37472211d1a9ec18c44/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f33787a3242773132666539697947303676362f67697068792e676966" width="100px;" alt="Saumil Makkar"/>
                     <br />
-                    <sub><b>Vivek Thakur</b></sub>
+                    <sub><b>Saumil</b></sub>
                 </a>
             </td>
             <td align="center">
